@@ -2042,3 +2042,24 @@ section {
         display: none;
     }
 }
+
+
+@media (max-width: 990px) {
+    .logonormal {
+        display: none;
+    }
+
+    .logovertical {
+        display: inline;
+    }
+}
+
+@media (min-width: 991px) {
+    .logonormal {
+        display: inline;
+    }
+
+    .logovertical {
+        display: none;
+    }
+}
