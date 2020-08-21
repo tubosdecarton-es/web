@@ -533,6 +533,10 @@ h6 {
         font-size: 32px;
         top: 7px;
     }
+
+    .back-to-top {
+        margin-top: -40px;
+    }
 }
 
 @-webkit-keyframes up-down {
